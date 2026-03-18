@@ -15,7 +15,7 @@ This project analyses land surface temperature (LST) data alongside land use/lan
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 climate-hotspot-analysis/
@@ -128,5 +128,5 @@ pytest tests/
 
 ## 🙋 Author
 
-** Patrick Nkwachukwu Ezeh **\ 
+**Patrick Nkwachukwu Ezeh**\ 
 ·[Email](mailto:patrickezeh02@gmail.com)
