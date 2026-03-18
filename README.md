@@ -128,5 +128,5 @@ pytest tests/
 
 ## 🙋 Author
 
-**Patrick Nkwachukwu Ezeh**\ 
-·[Email](mailto:patrickezeh02@gmail.com)
+**Patrick Nkwachukwu Ezeh**  
+patrickezeh02@gmail.com
