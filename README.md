@@ -123,16 +123,10 @@ The analysis produces:
 pytest tests/
 ```
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 🙋 Author
 
-**Your Name**  
-BSc/MSc [Your Degree] | [Your University]  
-[LinkedIn](https://linkedin.com) · [Email](mailto:you@email.com)
+** Patrick Nkwachukwu Ezeh **\ 
+·[Email](mailto:patrickezeh02@gmail.com)
